@@ -1,6 +1,6 @@
 {
   "name": "makecode-arcade-ru-tutorials",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Russian-language MakeCode Arcade tutorials and Skillmaps for Neuronka.",
   "license": "MIT",
   "dependencies": {
@@ -10,12 +10,14 @@
     "README.md",
     "main.ts",
     "tutorials/chase-the-pizza.md",
+    "tutorials/m01-l01.md",
     "skillmaps/full-of-stories.md",
     "skillmaps/full-of-stories/greeting-card.md",
     "skillmaps/full-of-stories/bigger-greeting.md",
     "skillmaps/full-of-stories/joking-around.md",
     "skillmaps/full-of-stories/shortest-story.md",
     "_locales/ru/tutorials/chase-the-pizza.md",
+    "_locales/ru/tutorials/m01-l01.md",
     "_locales/ru/skillmaps/full-of-stories/greeting-card.md",
     "_locales/ru/skillmaps/full-of-stories/bigger-greeting.md",
     "_locales/ru/skillmaps/full-of-stories/joking-around.md",

@@ -12,8 +12,9 @@ the learner in the lesson flow.
 
 | Material | What it contains | Pinned learner link |
 |---|---|---|
-| Full of Stories | Four short creative activities in one Skillmap | [Open Skillmap](https://arcade.makecode.com/--skillmap?lang=ru&lockedEditor=1#github:NikolajSankovDev/makecode-arcade-ru-tutorials/skillmaps/full-of-stories#v0.1.2) |
-| Chase the Pizza | Standalone guided game tutorial | [Open tutorial](https://arcade.makecode.com/?lang=ru&lockedEditor=1#tutorial:https://github.com/NikolajSankovDev/makecode-arcade-ru-tutorials/tutorials/chase-the-pizza#v0.1.2) |
+| Full of Stories | Four short creative activities in one Skillmap | [Open Skillmap](https://arcade.makecode.com/--skillmap?lang=ru&lockedEditor=1#github:nzanco/makecode-arcade-ru-tutorials/skillmaps/full-of-stories#v0.2.0) |
+| Chase the Pizza | Standalone guided game tutorial | [Open tutorial](https://arcade.makecode.com/?lang=ru&lockedEditor=1#tutorial:https://github.com/nzanco/makecode-arcade-ru-tutorials/tutorials/chase-the-pizza#v0.2.0) |
+| Первый спрайт (M01 L01) | Five guided steps: create a sprite, then place it with one number | [Open tutorial](https://arcade.makecode.com/?lang=ru&lockedEditor=1#tutorial:https://github.com/nzanco/makecode-arcade-ru-tutorials/tutorials/m01-l01#v0.2.0) |
 
 ## Repository layout
 
@@ -33,8 +34,18 @@ See [AGENTS.md](AGENTS.md) before changing course content or links.
 
 ## Source and license
 
-The canonical English tutorials come from Microsoft MakeCode Arcade's
-[`pxt-arcade`](https://github.com/microsoft/pxt-arcade) repository under the
-MIT licence. This repository retains the upstream MIT licence and contains
-modified Russian localizations. MakeCode Arcade and related marks remain the
-property of their respective owners.
+This repository holds two kinds of file, and they have different origins.
+
+**Adapted from upstream.** `chase-the-pizza` and the `full-of-stories`
+skillmap derive from Microsoft MakeCode Arcade's
+[`pxt-arcade`](https://github.com/microsoft/pxt-arcade) repository, MIT
+licensed, and are published here as modified Russian localizations. The
+upstream copyright notice is retained in [LICENSE](LICENSE).
+
+**Written by Neuronka.** `m01-l01` and every tutorial added for the Neuronka
+Arcade course are original work, not a translation of any upstream file. They
+are copyright Neuronka and released under the same MIT licence, so one grant
+covers the whole repository and nobody has to work out which file is which.
+
+MakeCode Arcade and related marks remain the property of their respective
+owners. Nothing here implies endorsement by or affiliation with Microsoft.
