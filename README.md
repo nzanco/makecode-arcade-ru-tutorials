@@ -12,9 +12,9 @@ the learner in the lesson flow.
 
 | Material | What it contains | Pinned learner link |
 |---|---|---|
-| Full of Stories | Four short creative activities in one Skillmap | [Open Skillmap](https://arcade.makecode.com/--skillmap?lang=ru&lockedEditor=1#github:nzanco/makecode-arcade-ru-tutorials/skillmaps/full-of-stories#v0.2.0) |
-| Chase the Pizza | Standalone guided game tutorial | [Open tutorial](https://arcade.makecode.com/?lang=ru&lockedEditor=1#tutorial:https://github.com/nzanco/makecode-arcade-ru-tutorials/tutorials/chase-the-pizza#v0.2.0) |
-| Первый спрайт (M01 L01) | Five guided steps: create a sprite, then place it with one number | [Open tutorial](https://arcade.makecode.com/?lang=ru&lockedEditor=1#tutorial:https://github.com/nzanco/makecode-arcade-ru-tutorials/tutorials/m01-l01#v0.2.0) |
+| Full of Stories | Four short creative activities in one Skillmap | [Open Skillmap](https://arcade.makecode.com/--skillmap?lang=ru&lockedEditor=1#github:nzanco/makecode-arcade-ru-tutorials/skillmaps/full-of-stories#v0.3.0) |
+| Chase the Pizza | Standalone guided game tutorial | [Open tutorial](https://arcade.makecode.com/?lang=ru&lockedEditor=1#tutorial:https://github.com/nzanco/makecode-arcade-ru-tutorials/tutorials/chase-the-pizza#v0.3.0) |
+| Первый спрайт (M01 L01) | Five guided steps: create a sprite, then place it with two numbers | [Open tutorial](https://arcade.makecode.com/?lang=ru&lockedEditor=1#tutorial:https://github.com/nzanco/makecode-arcade-ru-tutorials/tutorials/m01-l01#v0.3.0) |
 
 ## Repository layout
 
